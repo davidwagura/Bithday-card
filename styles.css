@@ -27,9 +27,10 @@
         text-transform: uppercase; 
     }
     h3 {
-        text-align: right;
+        text-align: center;
     }
-    .emoji {
-
+    h2 {
+        font-size: 25px;
+        font-weight: 30px;
     }
 </style>
