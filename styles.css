@@ -1,0 +1,35 @@
+<style>
+	p {
+		text-align: center;
+	}
+    .birthday {
+    	text-align: center;
+    	margin: 40px auto;
+    	padding: 10px;
+    	max-width: 700px;
+        max-height: 800px;
+    	width: 100;
+        border-radius: 50px 50px 50px 50px;
+        background-color: rgb(234 112 231);
+        background-repeat: no-repeat;
+        font-style: oblique;
+       font-size: 15px;
+    }
+    
+    body {
+    	margin-bottom: 100;
+    	background-image: url("images (1).jpg");
+    	height: 4px;
+        overflow: hidden;
+        margin-bottom: 50px;
+    }
+    h1 {
+        text-transform: uppercase; 
+    }
+    h3 {
+        text-align: right;
+    }
+    .emoji {
+
+    }
+</style>
